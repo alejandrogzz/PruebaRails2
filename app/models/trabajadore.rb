@@ -1,3 +1,3 @@
 class Trabajadore < ActiveRecord::Base
-	has_many :inventario
+	has_many :inventarios
 end
